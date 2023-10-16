@@ -11,4 +11,7 @@ us know.
 
 You should only see the message in game once
 
-![image](https://github.com/TheShadowModsUK/NappyCraftLinks/assets/90859294/6927cecc-ffc1-4c4d-9d36-db279da1d748)
+![image](https://github.com/TheShadowModsUK/NappyCraftLinks/assets/90859294/bde6d167-4bb6-4521-a42f-89efe2b547c5)  
+
+![image](https://github.com/TheShadowModsUK/NappyCraftLinks/assets/90859294/ad6fb3f7-7e1a-4f7e-a709-90002b37ba56)
+
