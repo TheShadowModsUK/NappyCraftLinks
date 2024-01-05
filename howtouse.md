@@ -3,5 +3,5 @@
 > **Return [Home](https://github.com/TheShadowModsUK/NappyCraftLinks/blob/main/wikihome.md).**
 
 
-### What Is NappyCraft ?
+### How To Use ?
 📖 Coming soon
