@@ -1,6 +1,6 @@
 ![Welcome to the In-Game Online Wiki](https://i.imgur.com/Zw0VsgC.png)
 
-> **If your here just for the [How to Use](https://theshadowmodsuk.com/modwiki/nappycraft/how-to-use) or [Recipes](https://theshadowmodsuk.com/modwiki/nappycraft/2.-recipes) use the links on the left.**
+> **If your here just for the [How to Use](https://github.com/TheShadowModsUK/NappyCraftLinks/blob/main/howtouse.md) or [Recipes](https://theshadowmodsuk.com/modwiki/nappycraft/2.-recipes) use the links on the left.**
 
 ### What Is NappyCraft ?
 📖 NappyCraft is a mod that enables roleplaying as a user whom needs nappies/diapers or as an baby within the Minecraft world. Why? many reasons, one it helps some people to relax to be younger again, some users in real life wear nappies/diapers for medical reasons and been able to wear in game might also make them feel welcomed or able them to joke about their problems, NappyCraft gives you the user the option to create and wear a range of nappies/diapers this also means to change them nappies/diapers, there is wetting functions if you drink from the provided baby bottle or via the /wet command.
