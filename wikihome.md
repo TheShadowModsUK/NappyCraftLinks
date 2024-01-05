@@ -49,11 +49,13 @@ account and not just made wearing a big joke.
 
 
 ### How do I see/know the recipes ?   
+You will find the recipes here on GitHun in under recipes, [Recipes](https://github.com/TheShadowModsUK/NappyCraftLinks/blob/main/recipes/home.md).
+
 
 ❓ It seems a few users are brand new to Minecraft modding and to you guys I welcome you and they
 keep asking about recipes, well it seems 🌐[JEI](https://www.curseforge.com/minecraft/mc-mods/jei) sometimes miss some recipes what are not normal crafting table recipes so have created a list on the left under [Recipes](https://theshadowmodsuk.com/modwiki/nappycraft/2.-recipes), this list should be updated but 🌐[JEI](https://www.curseforge.com/minecraft/mc-mods/jei) is still recommended.
 
 I advice you to use 🌐[JEI](https://www.curseforge.com/minecraft/mc-mods/jei), reason I say this is that's the one I have tested our mods with, when you press
 E or at the Crafting Table with 🌐[JEI](https://www.curseforge.com/minecraft/mc-mods/jei) installed you will get a large list of items, in the box at the bottom
-right type **@NappyCraft** to find all the **NappyCraft** [recipes](https://theshadowmodsuk.com/modwiki/nappycraft/2.-recipes).
+right type **@NappyCraft** to find all the **NappyCraft** items you can craft.
 
