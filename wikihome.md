@@ -1,4 +1,4 @@
-![Welcome to the In-Game Online Wiki](https://i.imgur.com/Zw0VsgC.png)
+![Welcome to the In-Game Online Wiki](https://github.com/TheShadowModsUK/NappyCraftLinks/blob/main/resources/logonc.png?raw=true)
 
 > **If your here just for the [How to Use](https://github.com/TheShadowModsUK/NappyCraftLinks/blob/main/howtouse.md) or [Recipes](https://github.com/TheShadowModsUK/NappyCraftLinks/blob/main/recipes/home.md).**
 
