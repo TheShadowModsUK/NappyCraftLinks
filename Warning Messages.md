@@ -1,3 +1,5 @@
+![Welcome to the In-Game Online Wiki](https://github.com/TheShadowModsUK/NappyCraftLinks/blob/main/resources/logonc.png?raw=true)
+
 ### Warning Messages
 NappyCraft follows the Regression scene and disable scene, the Regression/Roleplay side we follow Regressia a much more friendly 
 and clean Role Play ideals for regression, within this Regressia believes showing off Nappies/Diapers in public to be as kin to 
